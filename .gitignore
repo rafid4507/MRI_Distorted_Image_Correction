@@ -1,0 +1,13 @@
+# folders
+/data
+/trash
+/test
+/noise-old
+__pycache__
+.vscode
+
+# files
+notes.md
+reading.ipynb
+transparency.ipynb
+noise-testing.ipynb
